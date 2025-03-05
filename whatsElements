@@ -1,0 +1,10 @@
+{
+    "SEARCH_BAR_XPATH":"//div[@aria-label='Caixa de texto de pesquisa']",
+    "CHAT_CONTEINER_XPATH":"//*[@id='main']/div[3]/div/div[2]",
+    "DAYS_SPAN_XPATH":"//div[@class='_amk4 _amkb']/span[@class='_ao3e']",
+    "MESSAGES_XPATH":"message-in focusable-list-item _amjy _amjw",
+    "AUTHOR_DATE_DIV":"copyable-text",
+    "TEXT_MESSAGE_SPAN":"_ao3e selectable-text copyable-text",
+    "AUTHOR_DATE":"data-pre-plain-text",
+    "GROUP_TITLE_XPATH":"//span[@title='"
+}
